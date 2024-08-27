@@ -1,0 +1,37 @@
+[0;35m✅ obj/mlx_init.o built![0m
+[0;35m✅ obj/mlx_new_window.o built![0m
+[0;35m✅ obj/mlx_pixel_put.o built![0m
+[0;35m✅ obj/mlx_loop.o built![0m
+[0;35m✅ obj/mlx_mouse_hook.o built![0m
+[0;35m✅ obj/mlx_key_hook.o built![0m
+[0;35m✅ obj/mlx_expose_hook.o built![0m
+[0;35m✅ obj/mlx_loop_hook.o built![0m
+[0;35m✅ obj/mlx_int_anti_resize_win.o built![0m
+[0;35m✅ obj/mlx_int_do_nothing.o built![0m
+[0;35m✅ obj/mlx_int_wait_first_expose.o built![0m
+[0;35m✅ obj/mlx_int_get_visual.o built![0m
+[0;35m✅ obj/mlx_flush_event.o built![0m
+[0;35m✅ obj/mlx_string_put.o built![0m
+[0;35m✅ obj/mlx_set_font.o built![0m
+[0;35m✅ obj/mlx_new_image.o built![0m
+[0;35m✅ obj/mlx_get_data_addr.o built![0m
+[0;35m✅ obj/mlx_put_image_to_window.o built![0m
+[0;35m✅ obj/mlx_get_color_value.o built![0m
+[0;35m✅ obj/mlx_clear_window.o built![0m
+[0;35m✅ obj/mlx_xpm.o built![0m
+[0;35m✅ obj/mlx_int_str_to_wordtab.o built![0m
+[0;35m✅ obj/mlx_destroy_window.o built![0m
+[0;35m✅ obj/mlx_int_param_event.o built![0m
+[0;35m✅ obj/mlx_int_set_win_event_mask.o built![0m
+[0;35m✅ obj/mlx_hook.o built![0m
+[0;35m✅ obj/mlx_rgb.o built![0m
+[0;35m✅ obj/mlx_destroy_image.o built![0m
+[0;35m✅ obj/mlx_mouse.o built![0m
+[0;35m✅ obj/mlx_screen_size.o built![0m
+[0;35m✅ obj/mlx_destroy_display.o built![0m
+[0;34m🔨 Creating library...[0m
+[0;32m📚 libmlx.a and libmlx_Linux.a created successfully![0m
+gcc -I/usr/include -O3 -I.. -g   -c -o main.o main.c
+[0;32mBuilding mlx-test[0m  
+[0;32m Linking complete.[0m  
+[0;32mBuild successful.[0m  
